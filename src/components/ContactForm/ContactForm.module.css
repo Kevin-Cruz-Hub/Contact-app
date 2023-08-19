@@ -1,0 +1,13 @@
+.ButtonCont{
+    text-align: center;
+    margin: 10px auto;
+}
+.Button{
+    padding: 10px;
+    border-radius: 5px;
+    background-color: black;
+    color: goldenrod;
+}
+.FormD{
+    text-align: center;
+}

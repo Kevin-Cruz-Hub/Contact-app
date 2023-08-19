@@ -1,0 +1,15 @@
+.List{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    color: white;
+    background-color: black;
+    padding: 10px;
+    
+}
+.List li{
+    transition: 0.3s;
+}
+.List li:hover{
+    color: goldenrod;
+}

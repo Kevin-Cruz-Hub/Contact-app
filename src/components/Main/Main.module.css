@@ -1,0 +1,16 @@
+body{
+    background-image: url('https://t4.ftcdn.net/jpg/03/81/59/33/360_F_381593320_ARFUvnXviOgvf4zYAXpjdzF3q7DBKycL.jpg');
+    box-shadow: 5px 5px 10px black;
+}
+.Main{
+    display: grid;
+    grid-template-columns: 40% 60%;
+    background-color: black;
+    overflow: hidden;
+}
+.Apart{
+    background-color: goldenrod;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
